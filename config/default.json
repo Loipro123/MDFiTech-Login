@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://loile:loibinhdong@cluster0.7gci9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"MDFiTech"
+}
